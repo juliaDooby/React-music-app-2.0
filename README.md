@@ -1,5 +1,6 @@
 
-Music-app-2.0 with: 
+## Music-app-2.0 with: 
+---
 - a modern homepage, 
 - fully-fledged music player, 
 - search, 
@@ -9,7 +10,8 @@ Music-app-2.0 with:
 - popular music around you, 
 - worldwide top charts, 
 - and much more
-
+  
+---
 ### Features:
 
 ---
