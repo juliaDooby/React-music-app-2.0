@@ -1,5 +1,14 @@
 
-_Music-app-2.0 with a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts, and much more
+Music-app-2.0 with: 
+- a modern homepage, 
+- fully-fledged music player, 
+- search, 
+- lyrics, 
+- song exploration features, 
+- search, 
+- popular music around you, 
+- worldwide top charts, 
+- and much more
 
 ### Features:
 
