@@ -51,7 +51,7 @@ What - i-ve done and used :
 3. RapidAPI - Shazam
 4. CSS
 5. Tailwind
-6. 
+ 
 ---
 ### How to start?
 
