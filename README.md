@@ -13,10 +13,8 @@
   
 ---
 ### Features:
-
----
-
 ##### Here's features included in this project
+
 ---
  - Discover Section
  - Rapid API Music Fetching
