@@ -6,7 +6,7 @@
 <div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_5.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_6.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_7.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_8.JPG" width="40%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_8.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_9.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_10.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_11.JPG" width="40%" height="20%"></img></div>
