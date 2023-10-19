@@ -1,5 +1,5 @@
 
-## Master modern web development by building an improved version of Spotify Music-app-2.0 with: 
+### Master modern web development by building an improved version of Spotify Music-app-2.0 with: 
 ---
 - a modern homepage, 
 - fully-fledged music player, 
