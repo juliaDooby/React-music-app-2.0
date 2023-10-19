@@ -1,12 +1,16 @@
 
-<div align="center"><img src=" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="40%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_1.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_2.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_3.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_4.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_5.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_6.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_7.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_8.JPG" width="40%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_9.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_10.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_11.JPG" width="40%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_12.JPG" width="40%" height="20%"></img></div>
 
 #### ➤ Unfortunately, the free Shazam Core Api was made paid and the link-demo to the visual interface is not available today (I'll try to find a similar replacement) 
 
