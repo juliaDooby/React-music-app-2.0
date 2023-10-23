@@ -1,4 +1,9 @@
 
+### Please note: project code on master branch ((temporarily) 
+ <!-- ### - I'll resolve the issue soon, Thanks for understanding !  -->
+---
+ #### ➤ Unfortunately, the free Shazam Core Api was made paid and the link-demo to the visual interface is not available today (I'll try to find a similar replacement) 
+---
 ### Master modern web development by building an improved version of Spotify Music-app-2.0 with: 
 ---
 - a modern homepage, 
