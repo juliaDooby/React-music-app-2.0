@@ -5,9 +5,9 @@
 ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Rapid-API](https://img.shields.io/badge/Rapid--Api-000000?style=for-the-badge&logo=react)
 ![Shazam-API](https://img.shields.io/badge/Shazam--API-005571?style=for-the-badge&logo=shazamapi)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 <div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_1.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/React-music-app-2.0/blob/master/lyriks_2.JPG" width="100%" height="20%"></img></div>
